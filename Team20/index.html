@@ -2,31 +2,44 @@
 <html lang="el">
 <head>
   <meta charset="UTF-8">
-  <title>ΟΜΑΔΑ 20</title>
+  <title>Ομάδα 20</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&display=swap');
-
     body {
-      font-family: 'Playfair Display', serif;
-      background-color: #fff;
-      color: #000;
+      font-family: 'Inter', sans-serif;
       padding: 2rem;
       max-width: 900px;
       margin: auto;
+      background-color: #ffffff;
+      color: #000000;
       line-height: 1.8;
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-image: url('back.jpg'); /* βάλε εδώ το όνομα του αρχείου σου */
+      background-size: cover;
+      background-position: center;
+      opacity: 0.08; /* μπορείς να το ρυθμίσεις όσο θες (0.05 - 0.2 είναι ιδανικό) */
+      z-index: -1;
+      pointer-events: none; /* ώστε να μη μπλοκάρει το περιεχόμενο */
     }
 
     h1 {
       text-align: center;
-      font-size: 3rem;
-      letter-spacing: 0.1rem;
-      font-weight: 700;
+      font-size: 2.5rem;
+      font-weight: 600;
       margin-bottom: 1.5rem;
     }
 
     p {
       text-align: center;
-      font-size: 1.2rem;
+      font-size: 1.1rem;
       margin-bottom: 2rem;
     }
 
@@ -39,7 +52,7 @@
       background: #f5f5f5;
       margin: 0.5rem 0;
       padding: 1rem 1.5rem;
-      border-left: 6px solid black;
+      border-left: 5px solid black;
       transition: background 0.3s;
     }
 
@@ -50,7 +63,7 @@
     a {
       text-decoration: none;
       color: black;
-      font-weight: bold;
+      font-weight: 600;
     }
 
     a:hover {
@@ -66,18 +79,10 @@
   </style>
 </head>
 <body>
-  <h1>ΟΜΑΔΑ 20</h1>
+  <h1>Ομάδα 20</h1>
   <p>Παρακάτω θα βρείτε τα διαθέσιμα αρχεία:</p>
   <ul>
-    <li><a href="1000012201.jpg" target="_blank">Εικόνα 00 (JPG)</a></li>
-    <li><a href="1000012199.jpg" target="_blank">Εικόνα 01 (JPG)</a></li>
-    <li><a href="1000012200.jpg" target="_blank">Εικόνα 02(JPG)</a></li>
-    <li><a href="Image 3 nypio.png" target="_blank">Εικόνα 03 - Νηπιαγωγείο (PNG)</a></li>
-    <li><a href="Image 4 nypio.png" target="_blank">Εικόνα 04 - Νηπιαγωγείο (PNG)</a></li>
-    <li><a href="nhpiagwgeio ΑΑ 1 100.pdf" target="_blank">Τομή ΑΑ 1:100 (PDF)</a></li>
-    <li><a href="nhpiagwgeio ΒΒ 1 100.pdf" target="_blank">Τομή ΒΒ 1:100 (PDF)</a></li>
-    <li><a href="nhpiagwgeio ΓΓ 1 100.pdf" target="_blank">Τομή ΓΓ 1:100 (PDF)</a></li>
-    <li><a href="nhpiagwgeio ΔΔ 1 100.pdf" target="_blank">Τομή ΔΔ 1:100 (PDF)</a></li>
+    <li><a href="Ομάδα 20.pdf" target="_blank">Ομάδα 20 (PDF)</a></li>
   </ul>
 
   <div class="footer">
