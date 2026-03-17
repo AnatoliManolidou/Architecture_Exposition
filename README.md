@@ -9,7 +9,7 @@ This exposition presents proposals for the design of educational pavilions in th
 
 # Architecture Exposition
 
-This project is a simple web-based exposition showcasing the work of multiple teams, as part of the exhibition "Η ΤΕΧΝΗ ΤΗΣ ΤΕΧΝΙΚΗΣ // THE ART OF TECHNIQUE". Each team has its own folder containing an `index.html` file that presents their project or contribution.
+This project is a simple web-based exposition showcasing the work of multiple teams, as part of the exhibition "Η ΤΕΧΝΗ ΤΗΣ ΤΕΧΝΙΚΗΣ". Each team has its own folder containing an `index.html` file that presents their project or contribution.
 
 ## Project Structure
 
