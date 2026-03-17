@@ -43,7 +43,7 @@ Each folder contains an `index.html` file for that team's project.
 
 ## Exhibition Details
 
-- **Title:** Η ΤΕΧΝΗ ΤΗΣ ΤΕΧΝΙΚΗΣ // THE ART OF TECHNIQUE
+- **Title:** Η ΤΕΧΝΗ ΤΗΣ ΤΕΧΝΙΚΗΣ
 - **Theme:** Installations of Primary Education in Thessaloniki
 - **Dates:** 17.06 – 27.06.2025
 - **Supported by:** Municipality of Thessaloniki, Aristotle University of Thessaloniki, School of Architecture
