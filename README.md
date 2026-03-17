@@ -1,5 +1,5 @@
 
-# Η ΤΕΧΝΗ ΤΗΣ ΤΕΧΝΙΚΗΣ // THE ART OF TECHNIQUE
+# Η ΤΕΧΝΗ ΤΗΣ ΤΕΧΝΙΚΗΣ
 
 **Exhibition: Installations of Primary Education in Thessaloniki**
 
